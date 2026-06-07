@@ -1,0 +1,13 @@
+{
+  "name": "mfumo-wa-location",
+  "version": "1.0.0",
+  "description": "Mfumo wa kuhifadhi location za watumiaji kwa idhini yao",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
